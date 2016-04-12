@@ -1,5 +1,4 @@
-redComendaciones
-================
+redcomendaciones
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
@@ -21,4 +20,4 @@ Run the app by entering the command:
 `$ rails server`
 
 
-(cc) 2016. Invita a la piscina
+(cc) 2016. Team Chitoge
